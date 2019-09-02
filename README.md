@@ -1,6 +1,6 @@
 # CSCI-567-Machine-Learning 
 
-This repo includes my solutions to the assigments of CSCI-567 Machine Learning course in University of Southern California taught by Prof. Sha.
+This repo includes my solutions to the assignments of CSCI-567 Machine Learning course in University of Southern California taught by Prof. Sha.
 
 ## Code structure
 - `./homework1/`: contains code for the implementation of **linear regression**, **k-nearest neighbors**, and **logistic regression**.
